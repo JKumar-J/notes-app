@@ -4,6 +4,9 @@ A simple Notes Application built with **React.js, Vite, Tailwind CSS, and Lucide
 
 This project was created to practice core React concepts such as state management with `useState`, form handling, dynamic rendering, array manipulation, and interactive UI design.
 
+## Live Demo
+https://jkumar-j.github.io/notes-app/
+
 ## 🚀 Features
 
 - Create and display notes
